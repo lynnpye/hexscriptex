@@ -1,4 +1,4 @@
-#include "hexscriptex/SLTOptional.h"
+#include "SLTOptional.h"
 #include "skse64/PapyrusVM.h"
 #include "skse64/PapyrusNativeFunctions.h"
 #include "skse64/PapyrusArgs.h"

@@ -157,14 +157,14 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SLTOptional.cpp" />
     <ClCompile Include="src\any.cpp" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\SLTOptional.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\version.h" />
     <ClInclude Include="resource.h" />
-    <ClInclude Include="SLTOptional.h" />
+    <ClInclude Include="src\SLTOptional.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

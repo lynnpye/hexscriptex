@@ -18,7 +18,7 @@
     <ClCompile Include="src\any.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="SLTOptional.cpp">
+    <ClCompile Include="src\SLTOptional.cpp">
       <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>
@@ -27,7 +27,7 @@
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="resource.h" />
-    <ClInclude Include="SLTOptional.h">
+    <ClInclude Include="src\SLTOptional.h">
       <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>

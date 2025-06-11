@@ -6,7 +6,7 @@
 
 #include "version.h"  // VERSION_VERSTRING, VERSION_MAJOR
 
-#include "hexscriptex/SLTOptional.h"
+#include "SLTOptional.h"
 #include "skse64/PapyrusVM.h"
 
 // Add this global
